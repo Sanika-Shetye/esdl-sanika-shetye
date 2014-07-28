@@ -9,6 +9,6 @@ c=a+b;
 cout<<"\nAddition is:"<<c;
 c=a-b;
 cout<<"\nSubtraction is:"<<c;
-c=a*b;
-cout<<"\nMultiplication is:"<<c;
+
+//above code edited by master ..plz enter remaining functions
 }
