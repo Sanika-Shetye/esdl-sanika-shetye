@@ -11,4 +11,5 @@ c=a-b;
 cout<<"\nSubtraction is:"<<c;
 
 //above code edited by master ..plz enter remaining functions
+//new demo now using desktop app of github
 }
